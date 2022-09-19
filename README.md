@@ -11,7 +11,7 @@ A text classification model that predicts multi label for StackOverflow question
 
 
 # Dataset
-I used a preprocessed dataset for “StackSample:10% of Stack Overflow Q&A” dataset:
+I used the preprocessed for “StackSample:10% of Stack Overflow Q&A” dataset:
 "https://raw.githubusercontent.com/laxmimerit/All-CSV-ML-Data-Files-Download/master/stackoverflow.csv"
 
 # Libraries
